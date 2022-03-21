@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Tempair",
+            "request": "launch",
+            "mainClass": "tgs19.Tempair",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubProgram",
+            "request": "launch",
+            "mainClass": "tgs18.SubProgram",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintXWhile",
+            "request": "launch",
+            "mainClass": "tgs17.PrintXWhile",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintXRepeat",
+            "request": "launch",
+            "mainClass": "tgs16.PrintXRepeat",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintXinterasi",
+            "request": "launch",
+            "mainClass": "tgs15.PrintXinterasi",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintWhile1",
+            "request": "launch",
+            "mainClass": "tgs14.PrintWhile1",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintWhile",
+            "request": "launch",
+            "mainClass": "tgs13.PrintWhile",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintRepeat",
+            "request": "launch",
+            "mainClass": "tgs12.PrintRepeat",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintIterasi",
+            "request": "launch",
+            "mainClass": "tgs11.PrintIterasi",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriFor",
+            "request": "launch",
+            "mainClass": "tgs10.PriFor",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max2",
+            "request": "launch",
+            "mainClass": "tgs9.Max2",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Konstant",
+            "request": "launch",
+            "mainClass": "tgs8.Konstant",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch KasusSwitch",
+            "request": "launch",
+            "mainClass": "tgs7.KasusSwitch",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch KasusBoolean",
+            "request": "launch",
+            "mainClass": "tgs6.KasusBoolean",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch If3",
+            "request": "launch",
+            "mainClass": "tgs5.If3",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch If2",
+            "request": "launch",
+            "mainClass": "tgs4.If2",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch If1",
+            "request": "launch",
+            "mainClass": "tgs3.If1",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BacaString",
+            "request": "launch",
+            "mainClass": "tgs1.BacaString",
+            "projectName": "Java 2_b1fe803e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEver",
+            "request": "launch",
+            "mainClass": "tgs2.ForEver",
+            "projectName": "Java 2_b1fe803e"
+        }
+    ]
+}
